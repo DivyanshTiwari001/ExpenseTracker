@@ -1,0 +1,1 @@
+This is an Expense Tracker application for Tracking your day to day expenses
