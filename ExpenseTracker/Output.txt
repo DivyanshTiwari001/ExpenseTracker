@@ -1,0 +1,4 @@
+S.No    Date               TotalAmount     Amount Spend            Item
+1      20/07/2022             15000           7000                  TV
+2      16/8/2022              12000           10000               Freezer
+
